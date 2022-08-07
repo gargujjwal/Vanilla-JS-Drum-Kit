@@ -21,3 +21,11 @@ git clone https://github.com/ujjwalgarg100204/Drum-kit.git
 
 Open ```index.html``` with any popular browser, and it should work
 
+## Contributing
+
+Although, there is little to no scope for contributing, pull requests are welcome. For major changes, please open an
+issue first to discuss what you would like to change.
+
+## License
+
+[MIT](LICENSE.txt)
