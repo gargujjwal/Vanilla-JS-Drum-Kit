@@ -18,7 +18,7 @@
 <h3 align="center">Drum Kit</h3>
 
   <p align="center">
-    the minimalist drum kit website designed with responsiveness in mind. Explore the simplicity of six distinct sounds, crafted to bring rhythm and creativity to your fingertips.
+    The minimalist drum kit website designed with responsiveness in mind. Explore the simplicity of six distinct sounds, crafted to bring rhythm and creativity to your fingertips.
     <br />
     <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Drum-Kit"><strong>Explore the docs »</strong></a>
     <br />
@@ -128,7 +128,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [mobile-view-screenshot]: ./screenshots/mobile-view.png
 [tailwind-shield]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-url]: https://tailwindcss.com
-[css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[daisyui-url]: https://daisyui.com/
 [js-sheild]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
