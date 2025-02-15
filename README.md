@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Drum-Kit">
+  <a href="https://github.com/gargujjwal/Vanilla-JS-Drum-Kit">
     <img src="./images/drum.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     The minimalist drum kit website designed with responsiveness in mind. Explore the simplicity of six distinct sounds, crafted to bring rhythm and creativity to your fingertips.
     <br />
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Drum-Kit"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Drum-Kit"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ujjwalgarg100204.github.io/Vanilla-JS-Drum-Kit">View Demo</a>
+    <a href="https://gargujjwal.github.io/Vanilla-JS-Drum-Kit">View Demo</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Drum-Kit/issues">Report Bug</a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Drum-Kit/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Drum-Kit/issues">Request Feature</a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Drum-Kit/issues">Request Feature</a>
   </p>
 </div>
 
@@ -62,15 +62,15 @@ Experience the essence of rhythm with Drum Kit, a responsive drum kit website po
 #### Mobile Design
 
 <p align="center">
-	<img src="./screenshots/mobile-view.gif" alt="mobile view" height="500" /> 
+ <img src="./screenshots/mobile-view.gif" alt="mobile view" height="500" />
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
--   [![Tailwind][tailwind-shield]][tailwind-url]
--   [![JavaScript][js-sheild]][javascript-url]
+- [![Tailwind][tailwind-shield]][tailwind-url]
+- [![JavaScript][js-sheild]][javascript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,31 +101,29 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Links
 
--   Repo URL: [https://github.com/ujjwalgarg100204/Vanilla-JS-Drum-Kit](https://github.com/ujjwalgarg100204/Vanilla-JS-Drum-Kit)
--   Live Site URL: [https://ujjwalgarg100204.github.io/Vanilla-JS-Drum-Kit](https://ujjwalgarg100204.github.io/Vanilla-JS-Drum-Kit)
+- Repo URL: [https://github.com/gargujjwal/Vanilla-JS-Drum-Kit](https://github.com/gargujjwal/Vanilla-JS-Drum-Kit)
+- Live Site URL: [https://gargujjwal.github.io/Vanilla-JS-Drum-Kit](https://gargujjwal.github.io/Vanilla-JS-Drum-Kit)
 
 <!-- AUTHOR -->
 
 ## Author
 
--   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
--   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
--   Linkedin - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
--   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
+- Website - [Ujjwal Garg](https://github.com/gargujjwal)
+- Instagram - [@gargujjwal](https://www.instagram.com/gargujjwal/)
+- LinkedIn - [@gargujjwal04](https://www.linkedin.com/in/gargujjwal04/)
+- Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/Vanilla-JS-Drum-Kit.svg?style=for-the-badge
-[stars-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Drum-Kit/stargazers
-[license-shield]: https://img.shields.io/github/license/ujjwalgarg100204/Vanilla-JS-Drum-Kit.svg?style=for-the-badge
-[license-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Drum-Kit/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/gargujjwal/Vanilla-JS-Drum-Kit.svg?style=for-the-badge
+[stars-url]: https://github.com/gargujjwal/Vanilla-JS-Drum-Kit/stargazers
+[license-shield]: https://img.shields.io/github/license/gargujjwal/Vanilla-JS-Drum-Kit.svg?style=for-the-badge
+[license-url]: https://github.com/gargujjwal/Vanilla-JS-Drum-Kit/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ujjwal-garg-3a5639243
-[desktop-view-screenshot]: ./screenshots/desktop-view.png
-[mobile-view-screenshot]: ./screenshots/mobile-view.png
+[linkedin-url]: https://www.linkedin.com/in/gargujjwal04
 [tailwind-shield]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-url]: https://tailwindcss.com
 [js-sheild]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
